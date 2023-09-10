@@ -51,7 +51,7 @@ function makeSound(key) {
             break;
 
         case "l":
-            var tom5 = new Audio("tom-5.mp3");
+            var tom5 = new Audio("tom-5.1.mp3");
             tom5.play();
             break;
 
