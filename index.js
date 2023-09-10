@@ -51,8 +51,8 @@ function makeSound(key) {
             break;
 
         case "l":
-            var tom4 = new Audio("tom-4.mp3");
-            tom4.play();
+            var tom5 = new Audio("tom-5.mp3");
+            tom5.play();
             break;
 
         default: console.log(key);
